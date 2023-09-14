@@ -1,7 +1,7 @@
 # CuentasFinancierasT1
 /*Integrantes:
 -Delcy Mendoza
--Ivan Mendoza
+-Ivan Villalba
 -Nilsa Meza
 -Daniel Baranda
 
